@@ -1,0 +1,11 @@
+{
+  "name": "tabmind-website",
+  "version": "1.0.0",
+  "description": "Landing page for TabMind — a Chrome extension that helps you remember why you opened each tab.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step needed'",
+    "start": "npx serve ."
+  }
+}

@@ -1,4 +1,5 @@
 # TabMind — Landing Page
+```chromium based extension```
 
 This is the marketing/landing website for **TabMind**, a Chrome extension.
 It's a plain static site (HTML/CSS/JS, no framework, no build step) — the
